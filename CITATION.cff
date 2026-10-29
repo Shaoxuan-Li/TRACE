@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use TRACE, please cite the accompanying paper."
+title: "TRACE: Cross-Layer Evolution Graph Learning for Fine-grained VLM Hallucination Detection"
+type: software
+authors:
+  - family-names: Li
+    given-names: Shaoxuan
+  - family-names: Zhang
+    given-names: Shiliang
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Cross-Layer Evolution Graph Learning for Fine-grained VLM Hallucination Detection"
+  authors:
+    - family-names: Li
+      given-names: Shaoxuan
+    - family-names: Zhang
+      given-names: Shiliang
+  year: 2026
+  url: "https://neurips.cc/virtual/2026/poster/150184"
+  conference:
+    name: "40th Conference on Neural Information Processing Systems (NeurIPS 2026)"

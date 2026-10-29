@@ -1,0 +1,33 @@
+# Local environment and Python artifacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+.env
+.env.*
+# Downloaded datasets, extracted features, weights, and generated results
+/data/
+/checkpoints/
+/output/
+/outputs/
+/runs/
+/cache/
+/models/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.log
+wandb/
+# Editors
+.idea/
+.vscode/
+# Local publishing notes
+/docs/github.md
