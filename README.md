@@ -7,7 +7,6 @@
 
 <p>
   <a href="https://neurips.cc/virtual/2026/poster/150184"><img src="https://img.shields.io/badge/Paper-NeurIPS_2026-b31b1b" alt="NeurIPS paper page"></a>
-  <a href="#quick-start"><img src="https://img.shields.io/badge/Code-PyTorch-ee4c2c" alt="PyTorch code"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-2563eb" alt="MIT License"></a>
 </p>
 
